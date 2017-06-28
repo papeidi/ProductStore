@@ -5,6 +5,7 @@ using System.Web;
 
 namespace ProductStore.Models
 {
+
 	/// <summary>
 	/// Product class
 	/// </summary>

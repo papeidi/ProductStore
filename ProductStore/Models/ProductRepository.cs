@@ -25,6 +25,7 @@ namespace ProductStore.Models
 
 		/// <summary>
 		/// 
+		/// fonction Get (Obtenir tous les produits)
 		/// </summary>
 		/// <returns></returns>
 		public IEnumerable<Product> GetAll()
